@@ -1,0 +1,43 @@
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.exe
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.xml
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.pdb
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.pdb
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.xml
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Form1.resources
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Resources.resources
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.vbproj.GenerateResource.Cache
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.GridForm.resources
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.exe
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.xml
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.pdb
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.pdb
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.xml
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.GridForm.resources
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Main.resources
+D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.LoadForm.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.exe
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.xml
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.pdb
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.pdb
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.xml
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\ResolveAssemblyReference.cache
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Main.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.GridForm.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.LoadForm.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Resources.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.vbproj.GenerateResource.Cache
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.HelpForm.resources
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe.manifest
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.application
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.exe.manifest
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.application
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe.config
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.TrustInfo.xml
+D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Debug\SpaceReader.AboutBox.resources

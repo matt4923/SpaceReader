@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SpaceReader">
+</Property><Property Name="Solution File" Value="C:\Users\Matt.Mattrix\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader.sln">
+</Property><Property Name="Date" Value="Wednesday, August 18, 2010">
+</Property><Property Name="Time" Value="13:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SpaceReader" Source="SpaceReader\SpaceReader.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SpaceReader" Source="SpaceReader\SpaceReader.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SpaceReader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SpaceReader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SpaceReader" Source="SpaceReader\SpaceReader.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,10 @@
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.exe
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.pdb
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\bin\Debug\SpaceReader.xml
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Form1.resources
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.Resources.resources
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.vbproj.GenerateResource.Cache
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.exe
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.xml
+C:\Users\Matt.Mattrix\Documents\Visual Studio 2005\Projects\SpaceReader\SpaceReader\obj\Debug\SpaceReader.pdb
