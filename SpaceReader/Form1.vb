@@ -44,15 +44,6 @@ Public Class Main
         Me.Hide()
         SkipSizePasser()
         LoadForm.Show()
-        'LoadForm.LblPrgrss.Text = "Checking Total File Size, Please Wait"
-        'TotalSize = CheckTotalSize()
-        'Console.WriteLine("TotalSize" & TotalSize)
-        ''''TotalSizeStep = CInt(100 \ TotalSize)
-        ''''Console.WriteLine("TotalSizeStep" & TotalSizeStep)
-        ''''LoadForm.ProgressBar1.Maximum = TotalSize
-        'Console.WriteLine("loadform maximum: " & LoadForm.ProgressBar1.Maximum)
-        'LoadForm.LblPrgrss.Text = "Total File Size: " & TotalSize
-        'LoadForm.LblPrgrss.Text = "Scanning...1"
         LoadTimer.Enabled = True
         LoadTimer.Start()
         Worker1.RunWorkerAsync()

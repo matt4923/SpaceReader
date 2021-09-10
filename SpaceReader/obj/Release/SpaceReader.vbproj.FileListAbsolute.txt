@@ -1,56 +1,20 @@
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\ResolveAssemblyReference.cache
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.Form1.resources
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.GridForm.resources
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.Resources.resources
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.GenerateResource.Cache
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.xml
-D:\Documents\Visual Studio 2008\Projects\SpaceReader\SpaceReader\obj\Release\SpaceReader.pdb
-C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\SpaceReader.exe
-C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\SpaceReader.pdb
-C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\SpaceReader.xml
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.exe.config
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.exe.manifest
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.application
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.exe
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.pdb
 C:\Users\Matt.Mattrix\Desktop\EXE\SpaceReader\NewBuild\SpaceReader.xml
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\ResolveAssemblyReference.cache
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.AboutBox.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Main.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.GridForm.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.HelpForm.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.LoadForm.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Resources.resources
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.GenerateResource.Cache
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.TrustInfo.xml
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe.manifest
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.application
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.xml
-D:\_SOURCE_CODE\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.pdb
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.AboutBox.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Main.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.GridForm.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.HelpForm.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.LoadForm.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Resources.resources
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.GenerateResource.Cache
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.TrustInfo.xml
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe.manifest
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.application
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.xml
-C:\Users\Matt\Documents\_SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.pdb
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.xml
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.pdb
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbprojResolveAssemblyReference.cache
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.AboutBox.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Main.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.GridForm.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.HelpForm.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.LoadForm.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.Resources.resources
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.GenerateResource.Cache
-D:\Google Drive\SourceCode\!PROJECTS\SpaceReader\SpaceReader\obj\Release\SpaceReader.TrustInfo.xml
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.AboutBox.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.Main.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.GridForm.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.HelpForm.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.LoadForm.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.Resources.resources
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.GenerateResource.cache
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.vbproj.CoreCompileInputs.cache
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.TrustInfo.xml
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe.manifest
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.application
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.exe
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.xml
+D:\_SourceCode\SpaceReader\SpaceReader\SpaceReader\obj\Release\SpaceReader.pdb

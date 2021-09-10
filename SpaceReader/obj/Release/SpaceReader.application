@@ -3,15 +3,18 @@
   <assemblyIdentity name="SpaceReader.application" version="2.2.1.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="SpaceReader" asmv2:product="SpaceReader" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" co.v1:createDesktopShortcut="true" />
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SpaceReader.exe.manifest" size="5537">
+    <dependentAssembly dependencyType="install" codebase="SpaceReader.exe.manifest" size="4524">
       <assemblyIdentity name="SpaceReader.exe" version="2.2.1.11" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>beEW3qfwdpGL5g7fPHDT27SwsKQ=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ezpsjdn4dW0eLARzPwY2amsSudbVfcmLviqGtfzVrSE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
